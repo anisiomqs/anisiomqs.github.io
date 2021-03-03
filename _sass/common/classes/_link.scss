@@ -2,9 +2,6 @@
   @include plain() {
     text-decoration: none;
   }
-  @include hover() {
-    text-decoration: underline;
-  }
   @include active() {
     text-decoration: none;
   }
